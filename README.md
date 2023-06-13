@@ -6,7 +6,7 @@ RestaurantPOS
 Website
 # https://mytrestaurant.azurewebsites.net/
 
-
+You can register an account to sign in.
 
 Run on local:
 
