@@ -2,7 +2,6 @@
 
 RestaurantPOS
 
-Overleaf: https://www.overleaf.com/9617115955zjvrwzhybffz
 
 In order to run (Installed needed extensions already):
 
