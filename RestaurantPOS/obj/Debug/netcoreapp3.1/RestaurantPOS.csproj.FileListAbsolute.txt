@@ -1,0 +1,511 @@
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\appsettings.json
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\RestaurantPOS.StaticWebAssets.xml
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\RestaurantPOS.exe
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\RestaurantPOS.deps.json
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\RestaurantPOS.runtimeconfig.json
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\RestaurantPOS.runtimeconfig.dev.json
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\RestaurantPOS.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\RestaurantPOS.pdb
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\RestaurantPOS.Views.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\RestaurantPOS.Views.pdb
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.AssemblyInfoInputs.cache
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.AssemblyInfo.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.MvcApplicationPartsAssemblyInfo.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.MvcApplicationPartsAssemblyInfo.cache
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.RazorAssemblyInfo.cache
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.RazorAssemblyInfo.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\staticwebassets\RestaurantPOS.StaticWebAssets.Manifest.cache
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\staticwebassets\RestaurantPOS.StaticWebAssets.xml
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.TagHelpers.input.cache
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.TagHelpers.output.cache
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.RazorCoreGenerate.cache
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Payment.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Home\PaymentDetailHistory.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Home\PaymentHistory.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Home\ResetPassword.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Home\ShowToCart.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Home\TableOrderedHistory.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Menu\Details.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Menu\MenuFood.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Reservation\BookTable.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\ResetPassword\Index.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\ResetPassword\ResetPasswordHandle.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\ResetPassword\ResetPasswordSuccess.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\ResetPassword\SendMailResetPasswordSuccess.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.RazorTargetAssemblyInfo.cache
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.RazorTargetAssemblyInfo.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.Views.pdb
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.csproj.CopyComplete
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.pdb
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.csprojAssemblyReference.cache
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\appsettings.json
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\RestaurantPOS.StaticWebAssets.xml
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\RestaurantPOS.exe
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\RestaurantPOS.deps.json
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\RestaurantPOS.runtimeconfig.json
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\RestaurantPOS.runtimeconfig.dev.json
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\RestaurantPOS.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\RestaurantPOS.pdb
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\RestaurantPOS.Views.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\RestaurantPOS.Views.pdb
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.csprojAssemblyReference.cache
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\staticwebassets\RestaurantPOS.StaticWebAssets.Manifest.cache
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\staticwebassets\RestaurantPOS.StaticWebAssets.xml
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.MvcApplicationPartsAssemblyInfo.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.MvcApplicationPartsAssemblyInfo.cache
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.RazorAssemblyInfo.cache
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.RazorAssemblyInfo.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.AssemblyInfoInputs.cache
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.AssemblyInfo.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.TagHelpers.input.cache
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.TagHelpers.output.cache
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.RazorCoreGenerate.cache
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Payment.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Home\PaymentDetailHistory.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Home\PaymentHistory.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Home\ResetPassword.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Home\ShowToCart.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Home\TableOrderedHistory.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Menu\Details.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Menu\MenuFood.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Reservation\BookTable.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\ResetPassword\Index.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\ResetPassword\ResetPasswordHandle.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\ResetPassword\ResetPasswordSuccess.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\ResetPassword\SendMailResetPasswordSuccess.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.RazorTargetAssemblyInfo.cache
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.RazorTargetAssemblyInfo.cs
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.Views.pdb
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.csproj.CopyComplete
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.dll
+E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.pdb
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\RestaurantPOS.StaticWebAssets.xml
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\RestaurantPOS.exe
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\RestaurantPOS.deps.json
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\RestaurantPOS.runtimeconfig.json
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\RestaurantPOS.runtimeconfig.dev.json
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\RestaurantPOS.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\RestaurantPOS.pdb
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\RestaurantPOS.Views.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\RestaurantPOS.Views.pdb
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.csproj.AssemblyReference.cache
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.AssemblyInfoInputs.cache
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.AssemblyInfo.cs
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.csproj.CoreCompileInputs.cache
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.RazorAssemblyInfo.cache
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.RazorAssemblyInfo.cs
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\staticwebassets\RestaurantPOS.StaticWebAssets.Manifest.cache
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\staticwebassets\RestaurantPOS.StaticWebAssets.xml
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.TagHelpers.input.cache
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.TagHelpers.output.cache
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.RazorCoreGenerate.cache
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Payment.cshtml.g.cs
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Home\PaymentDetailHistory.cshtml.g.cs
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Home\PaymentHistory.cshtml.g.cs
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Home\ResetPassword.cshtml.g.cs
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Home\ShowToCart.cshtml.g.cs
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Home\TableOrderedHistory.cshtml.g.cs
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Menu\Details.cshtml.g.cs
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Menu\MenuFood.cshtml.g.cs
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Reservation\BookTable.cshtml.g.cs
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\ResetPassword\Index.cshtml.g.cs
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\ResetPassword\ResetPasswordHandle.cshtml.g.cs
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\ResetPassword\ResetPasswordSuccess.cshtml.g.cs
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\ResetPassword\SendMailResetPasswordSuccess.cshtml.g.cs
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.RazorTargetAssemblyInfo.cache
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.RazorTargetAssemblyInfo.cs
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.Views.pdb
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.csproj.CopyComplete
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.dll
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.pdb
+C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.genruntimeconfig.cache

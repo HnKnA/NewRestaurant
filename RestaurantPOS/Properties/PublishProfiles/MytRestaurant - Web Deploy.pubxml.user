@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAaT8ufg2waUSDr+f0Js9bNgAAAAACAAAAAAAQZgAAAAEAACAAAACFxYflQFWWISz4wBunq7PCGXqoujaS5h2ODl7WkH4XzQAAAAAOgAAAAAIAACAAAADERXzxUUe3XznkZ6yj3b9eJow/bAToRw1hnA7mMJXTOoAAAACYPw/du5hFsof2fjx0KO0+JGANW+KyB8SBMqMiLCUzEcD22h9lwpkjv+XrsC2hjqVvAsBeGwaSTKXuQK0Kkr5zKfkX1VWZHM19US6nT6E5FOr4bik9t7clRpEtL1ExkLcgE+0SJEoDYIyz8pUYvzgNDC/Zrs8yT25f2c1woOO8XUAAAABokg/SNsarUD5mjfxsK/gf6nNzns7pVN/YjhfE2DoP7FsKyqeF+d6+KquEalp/Loy7uOm8HTDLT9yrHeuzma+l</EncryptedPassword>
+    <History>True|2023-06-13T17:08:39.1933523Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=tcp:tuanrestaurant.database.windows.net,1433%3bInitial Catalog=restaurant%3bPersist Security Info=False%3bUser ID=admin-sql%3bPassword=Tuan%401022102%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="RestaurantPOS.Data.RestaurantDbContext">
+      <Value>Server=tcp:tuanrestaurant.database.windows.net,1433%3bInitial Catalog=restaurant%3bPersist Security Info=False%3bUser ID=admin-sql%3bPassword=Tuan%401022102%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

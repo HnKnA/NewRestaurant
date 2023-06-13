@@ -1,0 +1,16 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using RestaurantPOS.Data.Entities;
+@inject SignInManager<Customer> SignInManager
+@inject UserManager<Customer> UserManager
+
+    <ul class="header-links pull-right">
+        @if (SignInManager.IsSignedIn(User))
+        {
+            <li style="color:white;">Xin chào @UserManager.GetUserAsync(User).Result.FullName　|</li>
+            <li><a href="@Url.Action("Logout","Home")"><i class="fas fa-sign-out-alt"></i>Đăng xuất</a></li>
+        }
+        else
+        {
+            <li><a href="@Url.Action("Login","Home")"><i class="fa fa-user"></i>Đăng nhập</a></li>
+        }
+    </ul>
