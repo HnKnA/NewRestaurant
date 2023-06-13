@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<sitemanifest>
-  <IisApp path="C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Release\netcoreapp3.1\win-x86\PubTmp\Out\" />
-  <dbfullsql path="C:\Users\A.Tuan\OneDrive\Máy tính\SoftwareEngineering-main\SoftwareEngineering-main\RestaurantPOS\obj\Release\netcoreapp3.1\win-x86\PubTmp\EFSQLScripts\RestaurantPOS.Data.RestaurantDbContext.sql" />
-</sitemanifest>
